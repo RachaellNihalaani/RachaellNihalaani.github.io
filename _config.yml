@@ -2,8 +2,8 @@
 # Site Settings
 # -----------------------------------------------------------------------------
 
-name: Otilia Stretcu
-email: otiliastr@gmail.com
+name: Rachaell Nihalaani
+email: rachaellnihalaani@gmail.com
 
 # footer_text: >
 #   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -17,10 +17,10 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # Social Integration
 # -----------------------------------------------------------------------------
 scholar_userid: UcT4CXoAAAAJ
-github_username: otiliastr
-linkedin_username: otiliastr
-facebook_username: otilia.stretcu
-twitter_username: otilia_stretcu
+github_username: RachaellNihalaani
+linkedin_username: rachaell-nihalaani
+#facebook_username: otilia.stretcu
+#twitter_username: otilia_stretcu
 contact_note: Feel free to drop me a line via e-mail.
 
 
@@ -84,7 +84,7 @@ plugins:
 
 # Jekyll-Scholar
 scholar:
-  last_name: Stretcu
+  last_name: Nihalaani
   style: apa
   locale: en
   sort_by: year
